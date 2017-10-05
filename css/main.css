@@ -29,5 +29,14 @@ figcaption {
 }
 
 figure + p {
-  font-style: bold;
+  font-weight: bold;
+  text-align: center;
+}
+
+figure p:not(first-child){
+  text-align: center;
+}
+
+blockquote > p {
+
 }
