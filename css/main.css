@@ -5,14 +5,14 @@ html {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-weight: bold;
   font-size: 1.5rem;
 }
 
 #commonvarieties, #nutritionalinformation, #tags {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.3rem;
 }
@@ -28,7 +28,7 @@ img {
 
 nav > ol > li {
   font-weight: bold;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   list-style-type: none;
 }
 
