@@ -19,7 +19,7 @@ h1 {
 
 a:hover {
   color: #3f1622;
-  text decoration: underline;
+  text-decoration: underline;
 }
 img {
   width: 100%;
