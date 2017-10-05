@@ -46,9 +46,12 @@ figure + p {
     font-size: 1.125rem;
 }
 
-figure p:not(first-child){
+p:not(.period) {
   text-align: center;
 }
+ blockquote strong {
+   font-weight: normal;
+ }
 
 blockquote p {
  font-size: 1.5rem;
