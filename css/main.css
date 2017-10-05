@@ -1,5 +1,6 @@
 html{
   line-height: 1.5;
+  background-color: #c9b5ab;
 }
 
 h1 {
@@ -13,12 +14,9 @@ h1 {
   color: #3f1622;
 }
 
-nav li {
+nav > ol > li {
   font-weight: bold;
   font-family: 'PT Sans', sans-serif;
-}
-
-nav ol {
   list-style-type: none;
 }
 
@@ -61,4 +59,12 @@ ol li {
 
 dl > dt {
   font-weight: bold;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+footer a {
+  color: #8f2440;
 }
