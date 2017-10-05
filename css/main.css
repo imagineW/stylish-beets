@@ -16,7 +16,9 @@ h1 {
   color: #3f1622;
   font-size: 1.3rem;
 }
+a {
 
+}
 a:hover {
   color: #3f1622;
   text-decoration: underline;
@@ -48,7 +50,7 @@ figure + p {
   font-size: 1.125rem;
 }
 
-p:not(.period) {
+ main+ p:not(.period) {
   text-align: center;
 }
 
