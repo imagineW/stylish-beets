@@ -1,6 +1,7 @@
 html{
   line-height: 1.5;
   background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
 }
 
 h1 {
@@ -12,6 +13,10 @@ h1 {
 #commonvarieties, #nutritionalinformation, #tags {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+}
+
+img {
+  width: 100%;
 }
 
 nav > ol > li {
@@ -42,16 +47,6 @@ figure p:not(first-child){
 blockquote > p {
  font-size: 1.5rem;
  font-style: italic;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-main > blackquote {
-  font-size: 1.5rem;
-  font-style: italic;
-  font-weight: bold;
 }
 
 footer > cite {
