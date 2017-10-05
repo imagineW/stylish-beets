@@ -44,8 +44,8 @@ blockquote > p {
  font-style: italic;
 }
 
-p > b {
-  font-weight: none;
+.bold {
+  font-weight: bold;
 }
 
 footer > cite {
