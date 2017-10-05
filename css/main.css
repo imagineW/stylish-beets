@@ -58,13 +58,17 @@ blockquote p {
  font-style: italic;
 }
 
-footer > cite {
+footer cite {
   font-size: .8rem;
   text-align: center;
 }
 
 ol li {
   list-style-type: lower-greek;
+}
+
+h2 + p {
+  font-style: italic;
 }
 
 dl > dt {
