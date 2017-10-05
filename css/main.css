@@ -17,6 +17,9 @@ h1 {
   font-size: 1.3rem;
 }
 
+a:hover {
+  color: #3f1622
+}
 img {
   width: 100%;
 }
@@ -47,13 +50,13 @@ figure p:not(first-child){
   text-align: center;
 }
 
-blockquote > p {
+blockquote p {
  font-size: 1.5rem;
  font-style: italic;
 }
 
 footer > cite {
-  font-size: .8rem
+  font-size: .8rem;
   text-align: center;
 }
 
