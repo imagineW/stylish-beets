@@ -38,6 +38,7 @@ figcaption {
 figure + p {
   font-weight: bold;
   text-align: center;
+    font-size: 1.125rem;
 }
 
 figure p:not(first-child){
@@ -68,4 +69,5 @@ ul li {
 
 footer a {
   color: #8f2440;
+
 }
