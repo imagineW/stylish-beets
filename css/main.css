@@ -21,6 +21,7 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
 img {
   width: 100%;
 }
@@ -31,7 +32,7 @@ nav > ol > li {
   list-style-type: none;
 }
 
- nav a {
+nav a {
   text-decoration: none;
   color: #8f2440;
 }
@@ -50,13 +51,14 @@ figure + p {
 p:not(.period) {
   text-align: center;
 }
- blockquote strong {
-   font-weight: normal;
- }
+
+blockquote strong {
+  font-weight: normal;
+}
 
 blockquote p {
- font-size: 1.5rem;
- font-style: italic;
+  font-size: 1.5rem;
+  font-style: italic;
 }
 
 footer cite {
