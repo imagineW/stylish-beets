@@ -48,6 +48,12 @@ blockquote > p {
   font-weight: bold;
 }
 
+main > blackquote {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
 footer > cite {
   font-size: .8rem
   text-align: center;
